@@ -1,0 +1,23 @@
+.container{
+  width:221px;
+  height:600px;
+  background-color: rgb(100, 0, 200);
+  border:1px solid aqua;
+  margin: 15px auto auto auto;
+}
+.done{
+  text-decoration: line-through;
+}
+form{
+  display: flex;
+}
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+ul div{
+  height: 22px;
+  display: flex;
+}
